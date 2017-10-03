@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 44EC-5869
+
+ Directory of C:\Temp\GIT\hello-remote
+
+03-10-2017  15:18    <DIR>          .
+03-10-2017  15:18    <DIR>          ..
+03-10-2017  15:18                 0 demo.txt
+03-10-2017  15:16                25 README.md
+               2 File(s)             25 bytes
+               2 Dir(s)  14.905.139.200 bytes free
